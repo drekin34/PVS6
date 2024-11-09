@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WebServ\\LAB6\\LAB6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00D5293B-82B1-408E-957B-3412A1BC634B}|LAB6.csproj|d:\\webserv\\lab6\\lab6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00D5293B-82B1-408E-957B-3412A1BC634B}|LAB6.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D5293B-82B1-408E-957B-3412A1BC634B}|LAB6.csproj|d:\\webserv\\lab6\\lab6\\views\\shared\\components\\navbar\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00D5293B-82B1-408E-957B-3412A1BC634B}|LAB6.csproj|solutionrelative:views\\shared\\components\\navbar\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D5293B-82B1-408E-957B-3412A1BC634B}|LAB6.csproj|d:\\webserv\\lab6\\lab6\\views\\shared\\components\\navbarviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D5293B-82B1-408E-957B-3412A1BC634B}|LAB6.csproj|solutionrelative:views\\shared\\components\\navbarviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\WebServ\\LAB6\\LAB6\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\WebServ\\LAB6\\LAB6\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T14:45:44.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\WebServ\\LAB6\\LAB6\\Views\\Shared\\Components\\Navbar\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\Navbar\\Default.cshtml",
+              "ToolTip": "D:\\WebServ\\LAB6\\LAB6\\Views\\Shared\\Components\\Navbar\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\Navbar\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T14:52:35.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavbarViewComponent.cs",
+              "DocumentMoniker": "D:\\WebServ\\LAB6\\LAB6\\Views\\Shared\\Components\\NavbarViewComponent.cs",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\NavbarViewComponent.cs",
+              "ToolTip": "D:\\WebServ\\LAB6\\LAB6\\Views\\Shared\\Components\\NavbarViewComponent.cs",
+              "RelativeToolTip": "Views\\Shared\\Components\\NavbarViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:50:59.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
